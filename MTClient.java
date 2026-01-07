@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 
-public class MClient {
+public class MTClient {
     public static void main(String[] args) {
         String ipAddress = "localhost";
         int port = 9090;
